@@ -11,3 +11,8 @@ Extracts DIM/BEM sprite PNGs.
 4. Select output folder for sprites.
 5. Select VITAL BRACELET ARENA_2.1.0.apk file and click extract.
 6. Copy dim_sprites folder to VBHelper folder on root of Android device.
+
+# NOTE
+Setting up the assets for using Battle requires you run both **VB Helper Sprite Extractor** and **VB Helper Data Extractor**.
+
+**VB Helper Data Extractor** can be found [here](https://github.com/lightheel/vb-helper-data-extractor).
