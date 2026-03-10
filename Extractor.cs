@@ -67,8 +67,8 @@ namespace VbHelperSpriteExtractor
                         Log("Found assets directory: " + assetsDir);
                     }
 
-                    // Step 5: Create output directory
-                    string dimSpritesDir = Path.Combine(outputPath, "dim_sprites");
+                    // Step 5: Create output directory (battle_sprites/extracted_assets/sprites)
+                    string dimSpritesDir = Path.Combine(outputPath, "battle_sprites", "extracted_assets", "sprites");
                     Directory.CreateDirectory(dimSpritesDir);
 
                     // Step 6: Load and process assets
