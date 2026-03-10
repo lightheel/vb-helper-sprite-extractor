@@ -5,7 +5,7 @@ APK extractor built using AssetStudio.
 Extracts DIM/BEM sprite PNGs.
 
 # Instructions
-1. Download [windows-vb-helper-sprite-extractor-v1.0.0.zip](https://github.com/lightheel/vb-helper-sprite-extractor/releases/download/Windows/windows-vb-helper-sprite-extractor-v1.0.0.zip) from v1.0.0 releases.
+1. Download [windows-vb-helper-sprite-extractor-v1.0.1.zip](https://github.com/lightheel/vb-helper-sprite-extractor/releases/download/v1.0.1/windows-vb-helper-sprite-extractor-v1.0.1.zip) from v1.0.1 releases.
 2. Unzip windows-vb-helper-sprite-extractor-v1.0.0.zip into a new folder.
 3. Run vbhelper-sprite-extractor.exe from unzipped file.
 
@@ -19,12 +19,12 @@ Extracts DIM/BEM sprite PNGs.
 ![output_folder](https://github.com/lightheel/vb-helper-sprite-extractor/blob/main/output_folder.png)
 
 
-5. Select VITAL BRACELET ARENA_2.1.0.apk file and click extract.
+5. Select VITAL BRACELET ARENA_2.1.0.apk file and click extract. (If you have an XAPK file, rename the file type to APK)
 
 ![apk_select](https://github.com/lightheel/vb-helper-sprite-extractor/blob/main/apk_select.png)
 
 
-6. Copy dim_sprites folder to VBHelper folder on root of Android device.
+6. Copy battle_sprites folder to VBHelper folder on root of Android device.
 
 # NOTE
 Setting up the assets for using Battle requires you run both **VB Helper Sprite Extractor** and **VB Helper Data Extractor**.
